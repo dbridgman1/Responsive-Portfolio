@@ -19,3 +19,11 @@ body {
     border-color: teal;
 }
 
+h1 {
+    color: teal;
+}
+
+button {
+    margin: 5px auto 10px 2px;
+}
+
