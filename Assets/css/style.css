@@ -1,5 +1,20 @@
+body {
+    background-image: url("https://pub-static.fotor.com/static/web/site/features/backgrounds/images/Fotor-wall-background-image-5.jpg");
+}
+
 #bg-color {
     background-color: teal;
     color: white;
     font-weight: bold;
+}
+
+.footer {
+    background-color: #777777;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 5px solid;
+    border-color: teal;
 }
