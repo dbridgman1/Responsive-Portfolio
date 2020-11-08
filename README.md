@@ -13,4 +13,4 @@ Link for application: [Bridgman Portfolio](https://dbridgman1.github.io/Responsi
 
 ## Fucntionality
 
-![Portfolio](images/Screenshot.jpg)
+![Portfolio](Assets/Images/Screenshot.JPG)
