@@ -3,8 +3,7 @@ body {
 }
 
 #bg-color {
-    background-color: teal;
-    color: white;
+    color: black;
     font-weight: bold;
 }
 
@@ -20,10 +19,26 @@ body {
 }
 
 h1 {
-    color: teal;
+    color: black;
 }
 
 .single {
     margin: 5px auto 10px 2px;
 }
 
+.show {
+    padding: 100px;
+}
+
+.s {
+    padding: 10px;
+}
+
+img {
+    padding: 5px;
+    border-width: 10px;
+}
+
+#email {
+    font-size: 23px;
+}
